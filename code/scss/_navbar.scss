@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f3ecec;
+}
+
+.navbar__left {
+  float: left;
+}
+.navbar__right {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(94, 81, 105);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #c81ea6;
+}
